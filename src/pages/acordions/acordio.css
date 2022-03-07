@@ -1,0 +1,25 @@
+.hacdos {
+  cursor: pointer;
+  text-align: center;
+}
+
+.paragraf {
+  display: none;
+}
+.paragrafVista {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 2rem;
+  color: darkblue;
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+
+  padding-left: 0.9rem;
+  padding-right: 0.9rem;
+}
+.itemsAcordio {
+  background-color: mintcream;
+}
